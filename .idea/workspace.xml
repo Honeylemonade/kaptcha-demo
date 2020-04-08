@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a904f3f8-9ba1-4306-9754-bfeff6400ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fwjsgl/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fwjsgl/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/fwjsgl/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="a904f3f8-9ba1-4306-9754-bfeff6400ebe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fwjsgl" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -158,7 +149,7 @@
       <workItem from="1586006272533" duration="235000" />
       <workItem from="1586042337372" duration="25000" />
       <workItem from="1586310035421" duration="3163000" />
-      <workItem from="1586313537079" duration="19487000" />
+      <workItem from="1586313537079" duration="20315000" />
     </task>
     <servers />
   </component>
