@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/expenditure/expenditure.iml" filepath="$PROJECT_DIR$/expenditure/expenditure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fwjsgl/fwjsgl.iml" filepath="$PROJECT_DIR$/fwjsgl/fwjsgl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/info/info.iml" filepath="$PROJECT_DIR$/info/info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/journey/journey.iml" filepath="$PROJECT_DIR$/journey/journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaptcha/kaptcha.iml" filepath="$PROJECT_DIR$/kaptcha/kaptcha.iml" />
+    </modules>
+  </component>
+</project>
