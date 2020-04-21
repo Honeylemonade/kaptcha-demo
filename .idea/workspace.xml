@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a904f3f8-9ba1-4306-9754-bfeff6400ebe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/controller/KaptchaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/kaptcha/src/main/java/com/example/kaptcha/controller/KaptchaController.java" afterDir="false" />
-    </list>
+    <list default="true" id="a904f3f8-9ba1-4306-9754-bfeff6400ebe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +147,8 @@
       <workItem from="1586313537079" duration="21042000" />
       <workItem from="1586395110941" duration="30000" />
       <workItem from="1586562420350" duration="225000" />
+      <workItem from="1587347541753" duration="601000" />
+      <workItem from="1587369842900" duration="606000" />
     </task>
     <servers />
   </component>
